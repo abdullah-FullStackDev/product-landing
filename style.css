@@ -83,8 +83,13 @@ body{
   .container{
 max-width: 1000px;
 margin: auto ;
-border: 1px solid black;
+padding: 5px;
   }
   .mb{
     margin-bottom: 0;
+  }
+  .icon{
+    margin-right: 5px;
+    color: darkorange;
+    margin-top: 5px;
   }
