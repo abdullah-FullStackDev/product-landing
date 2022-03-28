@@ -93,3 +93,22 @@ padding: 5px;
     color: darkorange;
     margin-top: 5px;
   }
+  .m-t{
+    margin-top: 100px;
+  }
+  #video{
+    width: 300px;
+  }
+  .d-flex{
+    display: flex;
+  }
+  #how-it-works {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #how-it-works > iframe {
+    max-width: 560px;
+    width: 100%;
+  }
