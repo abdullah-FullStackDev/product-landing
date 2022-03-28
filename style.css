@@ -80,7 +80,7 @@ body{
     font-size: 1.5em;
     font-weight: bold;
   }
-  .container{
+  .container-1{
 max-width: 1000px;
 margin: auto ;
 padding: 5px;
@@ -111,4 +111,7 @@ padding: 5px;
   #how-it-works > iframe {
     max-width: 560px;
     width: 100%;
+  }
+  .container-2{
+    
   }
