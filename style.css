@@ -93,4 +93,17 @@ header {
   .m-auto{
     margin: auto;
   }
-  
+  .d-f-c{
+    display: flex;
+    flex-direction: column;
+  }
+  .wh{
+    font-size: small;
+    width: 90px;
+    height: 30px;
+    font-weight: 900;
+    background-color: yellow;
+  }
+  .mt-2{
+    margin-top: 10px;
+  }
