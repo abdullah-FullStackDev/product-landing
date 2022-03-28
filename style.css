@@ -90,4 +90,7 @@ header {
   li{
       list-style: none;
   }
+  .m-auto{
+    margin: auto;
+  }
   
